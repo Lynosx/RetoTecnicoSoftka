@@ -2,7 +2,7 @@ Observaciones a Tener en cuenta
 
 La base de datos es lo mas importante para que el software funcione correctamente por eso:
 
-*La base de datos es el archivo juegop el cual debe ser importado y es una base de datos Mysql
+*La base de datos es el archivo juegop.sql el cual debe ser importado y es una base de datos Mysql
 *Cuando se importe la base de datos debe tener como nombre (juegop)
 *El usuario para acceder  a la base de datos debe ser (root) y tener una contraseña(clave) si se desea cambiar estos 
 valores lo puede hacer en el archivo Conexion.java que se encuentra en el paquete de datos  o en la ruta 
